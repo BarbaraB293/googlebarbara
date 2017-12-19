@@ -1,0 +1,34 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="Inseec_home_page_BarbaraBb">
+        <link rel="shortcut icon" type="image/png" href="favicon.ico"/>
+        <title>Google</title>
+        <link rel="stylesheet" type="text/css" href="theme.css">
+    </head>
+    <body>
+        <header>
+            <a href="https://accounts.google.com/">Gmail</a>
+            <a href="https://www.google.fr/imghp?hl=fr&tab=wi">Images</a>
+            <a href="https://www.google.fr/intl/fr/options/">Options</</a>
+        </header>
+        <div>
+            <img src="http://eticeo.com/wp-content/uploads/2016/11/featured.png"/>
+            <form name="google" action="#" method="POST"><br>
+                <input type="search" class="search"><br>
+                <input type="submit" class="button" name="submit" value="Recherche Google">
+                <input type="submit" class="button" name="lucky" value="J'ai de la chance">
+            </form>
+        </div>
+        <footer>
+            <a class="leftlinks" href="https://www.google.com/intl/en/ads/?fg=1">Publicité</a>
+            <a class="leftlinks" href="https://www.google.com/services/?fg=1">Entreprise</a>
+            <a class="leftlinks" href="https://www.google.com/intl/en/about/">À propos</a>
+            <a class="rightlinks" href="https://www.google.com/preferences?hl=en">Confidentialité</a>
+            <a class="rightlinks" href="https://www.google.com/preferences?hl=en">Conditions</a>
+            <a class="rightlinks" href="https://www.google.com/intl/en/policies/?fg=1">Paramètres</a>
+
+        </footer>
+    </body>
+</html>
